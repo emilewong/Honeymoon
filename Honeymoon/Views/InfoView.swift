@@ -66,7 +66,7 @@ struct AppInfoView: View {
             RowAppInfoView(firstItem: "Application", secondItem: "Honeymoon")
             RowAppInfoView(firstItem: "Compatibility", secondItem: "iPhone / iPad")
             RowAppInfoView(firstItem: "Developer", secondItem: "Emile Wong")
-            RowAppInfoView(firstItem: "Designer", secondItem: "Petras")
+            RowAppInfoView(firstItem: "Designer", secondItem: "Robert Petras")
             RowAppInfoView(firstItem: "Website", secondItem: "emilewong.com")
             RowAppInfoView(firstItem: "Version", secondItem: "1.0.0")
         }
